@@ -11,6 +11,8 @@ Este projeto faz parte do meu processo de evolução como desenvolvedor Flutter 
 ## ✨ Preview
 
 > Interface de cadastro com opções de login social (Google, Email e Facebook), tipografia personalizada e layout responsivo.
+<img width="443" height="754" alt="image" src="https://github.com/user-attachments/assets/bae54443-93f7-43c2-8941-d44373bf64e5" />
+
 
 ---
 
