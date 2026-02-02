@@ -19,7 +19,6 @@ class HomeMediumPage extends StatelessWidget {
 
               /// Logo + título
               Column(
-                // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   Image.asset(
                     key: const ValueKey("imageMedium"),
